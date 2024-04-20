@@ -1,0 +1,17 @@
+.common-bg {
+    background-color: hsl(335, 73%, 72%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second {
+    color: #2b0be0;
+    font-size: 36px;
+}
+.common-bg.third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: hsl(120, 43%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
